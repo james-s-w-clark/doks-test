@@ -1,4 +1,4 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "https://idiosapps.github.io/doks-test/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
