@@ -18,7 +18,6 @@ toc: true
 - [Git](https://git-scm.com/) — latest source release
 - [Node.js](https://nodejs.org/) — latest LTS version or newer
 
-
 ## Start a new Doks project
 
 Create a new site, change directories, install dependencies, and start development server.
@@ -46,7 +45,6 @@ git clone https://github.com/h-enk/doks-child-theme.git my-doks-site
 ```bash
 git clone https://github.com/h-enk/doks.git my-doks-site
 ```
-
 
 ### Change directories
 

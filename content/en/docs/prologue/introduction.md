@@ -19,13 +19,9 @@ There are two main ways to get started with Doks:
 
 ### Tutorial
 
-
-
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
 ### Quick Start
-
-
 
 One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
 
