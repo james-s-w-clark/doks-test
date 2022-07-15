@@ -83,8 +83,8 @@ repoHost = "GitHub"
 docsRepo = "https://github.com/IdiosApps/doks-test"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
-editPage = false
-lastMod = false
+editPage = true
+lastMod = true
 
 [sections]
   sectionNav = ["docs", "guides"]
