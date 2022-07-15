@@ -2,7 +2,7 @@
 The npm outdated command will check the registry to see if any (or, specific) installed packages are currently outdated:
 npm outdated [[&amp;lt;@scope&amp;gt;/]&amp;lt;pkg&amp;gt; ...] Update packages #
 The npm update command will update all the packages listed to the latest version (specified by the tag config), respecting semver:
-npm update [&amp;lt;pkg&amp;gt;...]</description></item><item><title>Troubleshooting</title><link>https://idiosapps.github.io/doks-test/docs/help/troubleshooting/</link><pubDate>Thu, 12 Nov 2020 15:22:20 +0100</pubDate><guid>https://idiosapps.github.io/doks-test/docs/help/troubleshooting/</guid><description>Problems updating npm packages #
+npm update [&amp;lt;pkg&amp;gt;...] hi</description></item><item><title>Troubleshooting</title><link>https://idiosapps.github.io/doks-test/docs/help/troubleshooting/</link><pubDate>Thu, 12 Nov 2020 15:22:20 +0100</pubDate><guid>https://idiosapps.github.io/doks-test/docs/help/troubleshooting/</guid><description>Problems updating npm packages #
 Delete the ./node_modules folder, and run again:
 npm install Problems with cache #
 Delete the temporary directories:
