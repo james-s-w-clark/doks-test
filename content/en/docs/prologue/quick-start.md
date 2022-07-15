@@ -18,9 +18,6 @@ toc: true
 - [Git](https://git-scm.com/) — latest source release
 - [Node.js](https://nodejs.org/) — latest LTS version or newer
 
-{{< details "Why Node.js?" >}}
-Doks uses npm (included with Node.js) to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts.
-{{< /details >}}
 
 ## Start a new Doks project
 
@@ -50,9 +47,6 @@ git clone https://github.com/h-enk/doks-child-theme.git my-doks-site
 git clone https://github.com/h-enk/doks.git my-doks-site
 ```
 
-{{< details "Help me choose" >}}
-Not sure which one is for you? Pick the child theme.
-{{< /details >}}
 
 ### Change directories
 
